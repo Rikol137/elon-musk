@@ -1,0 +1,34 @@
+.main{
+    display: flex;
+}
+.year{
+    width: 450px;
+    border-left: 6px solid black;
+    height: 650px;
+}
+.elon{
+    display: flex;
+    margin-top: 0px;
+    background-color:  #00203fff;
+    margin-bottom: 0%;
+    padding-top: 170px;
+    
+}
+.image{
+    margin-left: 100px;
+    border-radius: 200px;
+    
+}
+.text{
+    margin-left: 110px;
+    color: white;
+}
+.button{
+    color: rgb(241, 234, 234);
+    width: 120px;
+    height: 30px;
+    background-color: red;
+}
+.top{
+    padding-left: 30px;
+}
